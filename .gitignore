@@ -1,0 +1,9 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore PHPUnit cache and logs
+.phpunit.result.cache
+coverage/
